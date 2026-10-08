@@ -20,7 +20,7 @@ export const site = {
     'This is a personal website that showcases my work, projects, and interests. Explore the branches to see the different facets of my professional and personal life. Each branch moves forward in years as you read down it.',
 
   /** Used for canonical URLs and link previews. Set it to the real address. */
-  url: 'https://example.com',
+  url: 'https://notadevsingh.github.io',
   email: 'notadevsingh.cape902@slmail.me',
 
   /** Rendered in the footer, in this order. */
