@@ -1,0 +1,5 @@
+This is a sample artefact.
+
+It exists so the sample content can obey the sample's own rule: every full
+note links to at least one thing a reader can open. Replace it with a real
+document, deck, repo, photo or write-up, and point the chip at that.
